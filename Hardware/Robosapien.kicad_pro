@@ -323,11 +323,15 @@
     ],
     [
       "d7d66515-5ec5-4808-aaed-1df1d24e5281",
-      "Esp32C3"
+      "Esp32"
     ],
     [
-      "efb6d22c-8eeb-44ac-ac18-0abf8ce550cd",
+      "81be103e-8d8c-4b92-9628-1d62ffd56239",
       "CP2102"
+    ],
+    [
+      "3a71c2f1-e6e8-43e6-9444-5e0b0ed56854",
+      "BMS"
     ]
   ],
   "text_variables": {}
