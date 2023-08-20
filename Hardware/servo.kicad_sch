@@ -850,9 +850,6 @@
         (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/1f4ec46f-685a-45d5-add4-39daba844792"
           (reference "C34") (unit 1)
         )
-        (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/ed69fdff-79f7-4793-b95f-3ec101e1476d/ee8b7e9d-9ccf-4a56-88cb-48ea7a955f9b"
-          (reference "C36") (unit 1)
-        )
       )
     )
   )
@@ -880,9 +877,6 @@
         )
         (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/1f4ec46f-685a-45d5-add4-39daba844792"
           (reference "#PWR010") (unit 1)
-        )
-        (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/ed69fdff-79f7-4793-b95f-3ec101e1476d/ee8b7e9d-9ccf-4a56-88cb-48ea7a955f9b"
-          (reference "#PWR092") (unit 1)
         )
       )
     )
@@ -922,9 +916,6 @@
         (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/1f4ec46f-685a-45d5-add4-39daba844792"
           (reference "C33") (unit 1)
         )
-        (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/ed69fdff-79f7-4793-b95f-3ec101e1476d/ee8b7e9d-9ccf-4a56-88cb-48ea7a955f9b"
-          (reference "C35") (unit 1)
-        )
       )
     )
   )
@@ -952,9 +943,6 @@
         )
         (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/1f4ec46f-685a-45d5-add4-39daba844792"
           (reference "#PWR086") (unit 1)
-        )
-        (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/ed69fdff-79f7-4793-b95f-3ec101e1476d/ee8b7e9d-9ccf-4a56-88cb-48ea7a955f9b"
-          (reference "#PWR067") (unit 1)
         )
       )
     )
@@ -998,9 +986,6 @@
         (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/1f4ec46f-685a-45d5-add4-39daba844792"
           (reference "D7") (unit 1)
         )
-        (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/ed69fdff-79f7-4793-b95f-3ec101e1476d/ee8b7e9d-9ccf-4a56-88cb-48ea7a955f9b"
-          (reference "D10") (unit 1)
-        )
       )
       (project "HOBRASIO-PCB"
         (path "/c680970c-1c88-4856-8012-89fe8dca4f83/00ab64a0-d3b0-4404-b15e-fab03af8620b"
@@ -1034,9 +1019,6 @@
         (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/1f4ec46f-685a-45d5-add4-39daba844792"
           (reference "#PWR09") (unit 1)
         )
-        (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/ed69fdff-79f7-4793-b95f-3ec101e1476d/ee8b7e9d-9ccf-4a56-88cb-48ea7a955f9b"
-          (reference "#PWR091") (unit 1)
-        )
       )
     )
   )
@@ -1061,9 +1043,6 @@
       (project "Robosapien"
         (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/1f4ec46f-685a-45d5-add4-39daba844792"
           (reference "#PWR088") (unit 1)
-        )
-        (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/ed69fdff-79f7-4793-b95f-3ec101e1476d/ee8b7e9d-9ccf-4a56-88cb-48ea7a955f9b"
-          (reference "#PWR095") (unit 1)
         )
       )
     )
@@ -1107,9 +1086,6 @@
         (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/1f4ec46f-685a-45d5-add4-39daba844792"
           (reference "D8") (unit 1)
         )
-        (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/ed69fdff-79f7-4793-b95f-3ec101e1476d/ee8b7e9d-9ccf-4a56-88cb-48ea7a955f9b"
-          (reference "D9") (unit 1)
-        )
       )
       (project "HOBRASIO-PCB"
         (path "/c680970c-1c88-4856-8012-89fe8dca4f83/00ab64a0-d3b0-4404-b15e-fab03af8620b"
@@ -1140,9 +1116,6 @@
         (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/1f4ec46f-685a-45d5-add4-39daba844792"
           (reference "#PWR089") (unit 1)
         )
-        (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/ed69fdff-79f7-4793-b95f-3ec101e1476d/ee8b7e9d-9ccf-4a56-88cb-48ea7a955f9b"
-          (reference "#PWR094") (unit 1)
-        )
       )
     )
   )
@@ -1168,9 +1141,6 @@
         (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/1f4ec46f-685a-45d5-add4-39daba844792"
           (reference "#PWR087") (unit 1)
         )
-        (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/ed69fdff-79f7-4793-b95f-3ec101e1476d/ee8b7e9d-9ccf-4a56-88cb-48ea7a955f9b"
-          (reference "#PWR068") (unit 1)
-        )
       )
     )
   )
@@ -1195,9 +1165,6 @@
       (project "Robosapien"
         (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/1f4ec46f-685a-45d5-add4-39daba844792"
           (reference "#PWR023") (unit 1)
-        )
-        (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/ed69fdff-79f7-4793-b95f-3ec101e1476d/ee8b7e9d-9ccf-4a56-88cb-48ea7a955f9b"
-          (reference "#PWR019") (unit 1)
         )
       )
     )
@@ -1244,9 +1211,6 @@
         (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/1f4ec46f-685a-45d5-add4-39daba844792"
           (reference "H1") (unit 1)
         )
-        (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/ed69fdff-79f7-4793-b95f-3ec101e1476d/ee8b7e9d-9ccf-4a56-88cb-48ea7a955f9b"
-          (reference "H4") (unit 1)
-        )
       )
     )
   )
@@ -1292,9 +1256,6 @@
         (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/1f4ec46f-685a-45d5-add4-39daba844792"
           (reference "H2") (unit 1)
         )
-        (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/ed69fdff-79f7-4793-b95f-3ec101e1476d/ee8b7e9d-9ccf-4a56-88cb-48ea7a955f9b"
-          (reference "H7") (unit 1)
-        )
       )
     )
   )
@@ -1339,9 +1300,6 @@
         )
         (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/1f4ec46f-685a-45d5-add4-39daba844792"
           (reference "H6") (unit 1)
-        )
-        (path "/268ffade-7b22-4f88-a4dd-82181ce0b057/ed69fdff-79f7-4793-b95f-3ec101e1476d/ee8b7e9d-9ccf-4a56-88cb-48ea7a955f9b"
-          (reference "H5") (unit 1)
         )
       )
     )
