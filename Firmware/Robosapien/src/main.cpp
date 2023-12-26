@@ -9,8 +9,6 @@ const uint16_t MAX_ITERATION = 300; // Nombre de couleurs
 #define SCREEN_WIDTH tft.width()   //
 #define SCREEN_HEIGHT tft.height() // Taille de l'écran
 
-static float zoom = 0.5;
-
 void draw_Julia(float c_r, float c_i, float zoom)
 {
 
@@ -70,6 +68,7 @@ void setup()
         setServoEnabled(i, 1);
         setServo(i, 180);
     }
+    draw_Julia(-0.8, +0.156, 1.0);
 }
 
 void loop()
@@ -91,17 +90,6 @@ void loop()
         setServoEnabled(id, pos);
         Serial.println((pos == 1 ? "Enabled" : "Disabled") + String(" servo id ") + String(id));
     }
-    draw_Julia(-0.8, +0.156, zoom);
-    tft.fillRect(0, 0, 150, 20, TFT_BLACK);
-    tft.setCursor(0, 15);
-    tft.setTextColor(TFT_WHITE);
-    tft.print(" Zoom = ");
-    tft.println(zoom);
-    delay(2000);
-    zoom *= 1.5;
-    if (zoom > 100)
-        zoom = 0.5;
-
     // move all servos between 0 and 180 degrees
     // static int deg = 0;
     // for (int i = 0; i < 18; i++)
